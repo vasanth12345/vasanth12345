@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @vasanth12345
-- 👀 I’m interested in frontend 
-- 🌱 I’m currently learning reactjs
+- 👀 I’m frontend developer ... 
 - 📫 How to reach me ...
 
 <!---
